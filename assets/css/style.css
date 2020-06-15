@@ -75,6 +75,12 @@ h1, h2, h3, h4, h5, h6 {
 /*--------------------------------------------------------------
 # Back to top button
 --------------------------------------------------------------*/
+.chatbotsite{
+  position: absolute;
+  left: 250px;
+  bottom:30%; 
+}
+
 .back-to-top {
   position: fixed;
   display: none;
